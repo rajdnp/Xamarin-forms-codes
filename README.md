@@ -1,6 +1,7 @@
 # Xamarin-forms-codes
-
+## Rounded image in Xamarin Forms
 ```
+
  <StackLayout Padding="40">
         <Image BackgroundColor="AliceBlue"
                 Source="https://img.etimg.com/thumb/width-1200,height-900,imgsize-135274,resizemode-1,msid-74669567/small-biz/sme-sector/ms-dhoni-invests-in-fintech-startup-khatabook.jpg"
